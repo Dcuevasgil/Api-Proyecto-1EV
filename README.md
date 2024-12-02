@@ -47,10 +47,9 @@ La motivación detrás de este proyecto es proporcionar una solución accesible 
 
 Para instalar y ejecutar este proyecto en tu máquina local, sigue los siguientes pasos:
 
-<!-- TODO: Poner mi repositorio de github cuando lo cree -->
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/gestion-proyectos.git
+   git clone https://github.com/Dcuevasgil/Api-Proyecto-1EV.git
 
 2. **Instalar dependencias:** Asegúrate de tener Java 11 o superior instalado en tu sistema. Luego, navega a la carpeta del proyecto y ejecuta el siguiente comando para instalar las dependencias:
     ```bash
